@@ -1,3 +1,4 @@
 sample master file
 second line update
 third line
+fourth line
